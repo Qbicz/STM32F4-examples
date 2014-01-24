@@ -1,3 +1,6 @@
+This repo is forked from [Elia's Electronics](http://eliaselectronics.com/ "My blog")
+Thank you.
+
 # STM32F4 Discovery example code
 
 This repo contains example code for the STM32F4 Discovery board by ST Microelectronics
